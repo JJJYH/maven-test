@@ -9,6 +9,6 @@
 	Hello maven!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  ${message} </P>
 </body>
 </html>
